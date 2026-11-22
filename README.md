@@ -6,13 +6,24 @@ and headless WordPress platforms with GraphQL. 3+ years, 120+ web projects,
 mentoring 7+ developers and leading AI-assisted development with Claude Code and MCP servers.
 
 ## 🚀 Featured projects
-_Coming this week: an accessible public service portal and a headless WordPress + Next.js starter._
+
+### [🍰 Sweet Delights](https://github.com/Shani67/Sweet-Delights) · [Live demo](https://sweet-delights-flame.vercel.app/)
+Headless WooCommerce bakery storefront. WordPress manages the products, and a statically
+generated Next.js store reads them over GraphQL.
+- Next.js 16, TypeScript, Tailwind CSS, WPGraphQL / WooGraphQL, Docker
+- ISR plus webhook revalidation, schema.org structured data, sitemap
+- WCAG 2.2 AA tested with axe, Playwright end-to-end tests, GitHub Actions CI
+
+### [✈️ Airline Reservation System](https://github.com/Shani67/Airline-Reservation-System)
+BSc mini-project: a desktop booking system built with Java and MySQL.
+
+_More coming soon: an accessible public service portal (GovTech)._
 
 ## 🛠️ Tech stack
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, SCSS
 **Backend & CMS:** Node.js, PHP, Laravel, REST, GraphQL, MySQL, Headless WordPress, Strapi
 **E-commerce:** Shopify, WooCommerce, payment gateway integration
-**DevOps & Cloud:** GitHub Actions, Docker, AWS (EC2, S3, RDS)
+**Testing & DevOps:** Playwright, Vitest, GitHub Actions, Docker, AWS (EC2, S3, RDS)
 **AI tools:** Claude Code, MCP servers, OpenAI Codex, GitHub Copilot
 
 ## 🏆 Recognition
