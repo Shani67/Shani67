@@ -14,10 +14,15 @@ generated Next.js store reads them over GraphQL.
 - ISR plus webhook revalidation, schema.org structured data, sitemap
 - WCAG 2.2 AA tested with axe, Playwright end-to-end tests, GitHub Actions CI
 
+### [🏝️ Travel Maldives](https://github.com/Shani67/Travel-Maldives) · [Live demo](https://travel-maldives.vercel.app)
+Accessible Maldives trip planner: compare islands, atolls and dive sites by budget and season,
+then send a trip enquiry.
+- Next.js 16 Server Components and Server Actions, TypeScript, Zod, Tailwind CSS
+- Search and enquiry form work without JavaScript (progressive enhancement)
+- GOV.UK-style error summary, reduced-motion video, WCAG 2.2 AA tested with axe and Playwright
+
 ### [✈️ Airline Reservation System](https://github.com/Shani67/Airline-Reservation-System)
 BSc mini-project: a desktop booking system built with Java and MySQL.
-
-_More coming soon: an accessible public service portal (GovTech)._
 
 ## 🛠️ Tech stack
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, SCSS
@@ -32,3 +37,4 @@ _More coming soon: an accessible public service portal (GovTech)._
 
 ## 📫 Find me
 [Portfolio](https://geethma-ranathunga.vercel.app) · [LinkedIn](https://linkedin.com/in/geethma-malshani)
+
